@@ -1,0 +1,5 @@
+<res>
+   <item name="role" type="" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="role/role1.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="role/role1.atlas" type="Image" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+</res>

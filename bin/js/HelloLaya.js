@@ -6,7 +6,7 @@ var hello;
     var Browser = Laya.Browser;
     var WebGL = Laya.WebGL;
     var Stage = Laya.Stage;
-    var HelloLaya = (function () {
+    var HelloLaya = /** @class */ (function () {
         function HelloLaya() {
             Laya.init(Browser.clientWidth, Browser.clientHeight, WebGL);
             Laya.stage.alignV = Stage.ALIGN_MIDDLE;
@@ -28,5 +28,5 @@ var hello;
     }());
     hello.HelloLaya = HelloLaya;
 })(hello || (hello = {}));
-//new hello.HelloLaya(); 
+//new hello.HelloLaya();
 //# sourceMappingURL=HelloLaya.js.map
